@@ -1,4 +1,4 @@
-Code Einblick kann aus rechtlichen Gründen nur auf Nachfrage gestattet werden.
+Code Einblick kann aus rechtlichen Gründen nur auf Nachfrage gestattet werden.<br>
 For legal reasons, access to the code can only be granted upon request.
 
 # Web Engineering 2 - Full-Stack Web Application Demo
