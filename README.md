@@ -33,6 +33,7 @@ CRUD = creatable, readble, updateable, deleteable
 
 1. Visit the frontend server using the following link:  
    [Website Demo](https://web-application-sigma-tawny.vercel.app)  
+   (if the link does'nt work the server is probably down and needs to be pinged [ping](https://webapplication-amhb.onrender.com))
 
 2. To test the login, you can use the following user credentials and try out different features as well as user permissions:  
 
@@ -80,6 +81,7 @@ CRUD = creatable, readble, updateable, deleteable
 
 1. Besuche den Frontend-Server über den folgenden Link:  
    [Website Demo](https://web-application-sigma-tawny.vercel.app)  
+   (falls der Link nicht funktioniert muss der Server gepingt werden [ping](https://webapplication-amhb.onrender.com))
 
 2. Um den Login zu testen, kannst du die folgenden Benutzerkonten verwenden und verschiedene Funktionen sowie Benutzerberechtigungen ausprobieren:  
 
