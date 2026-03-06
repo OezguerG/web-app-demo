@@ -28,7 +28,11 @@ Eine Full-Stack Webanwendung, entwickelt für den Kurs **Web Engineering 2**. Da
 
 ### 📸 Demo
 
-Die Anwendung kann auf der folgenden URL besichtigt werden:
+1. Besuche den Frontend-Server über den folgenden Link:  
+   
+   [Website Demo](https://web-application-sigma-tawny.vercel.app)  
+   
+   (falls der Link nicht funktioniert, ist der Server wahrscheinlich offline und muss angepingt werden [ping](https://webapplication-amhb.onrender.com))
 
 **Test-Benutzer 1 – Moriarty**
 - CampusID: `459810`
@@ -70,7 +74,11 @@ A full-stack web application developed for the **Web Engineering 2** course. Thi
 
 ### 📸 Demo
 
-The application can be viewed at the following URL:
+1. Visit the frontend server using the following link:  
+   
+   [Website Demo](https://web-application-sigma-tawny.vercel.app)  
+   
+   (if the link doesn't work the server is probably down and needs to be pinged [ping](https://webapplication-amhb.onrender.com))
 
 **Test User 1 – Moriarty**
 - CampusID: `459810`
