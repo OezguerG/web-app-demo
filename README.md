@@ -1,8 +1,10 @@
+### *The source code is part of academic coursework and is available upon request for review purposes, subject to university guidelines.*
+
 # User Guide - Web Application
 
 This guide explains how to use the core features of this web application. The application allows users to manage **Gebiete** (topics/areas) and **Themen** (themes/subjects within those areas).
 
----
+
 
 ## Getting Started
 
